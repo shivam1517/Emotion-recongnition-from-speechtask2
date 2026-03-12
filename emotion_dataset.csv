@@ -1,0 +1,4 @@
+MFCC1 MFCC2 MFCC3 ... MFCC40 Emotion
+12.3  5.6   3.2        happy
+11.4  4.9   2.7        sad
+13.2  6.1   4.5        angry
